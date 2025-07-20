@@ -5,6 +5,7 @@ nav{
     line-height: 0;
     padding-block: 20px;
     background-color: var(--surface-color);
+    font: var(--text-md);
 }
 nav ul {
     list-style: none;
